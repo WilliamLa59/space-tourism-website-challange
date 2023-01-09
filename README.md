@@ -1,4 +1,4 @@
-# Space Tourism Website
+# Space Tourism Website (project completed march of 2022, original repository gone :c)
 
 This project was done as a challenge on Frontend Mentor.
 
