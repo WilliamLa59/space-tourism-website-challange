@@ -6,7 +6,7 @@ Challange can be found here: https://www.frontendmentor.io/challenges/space-tour
 
 The challange is to recreate a website as closely as possible with the provided assets and the figma wireframes as a guideline for styling and layout.
 
-I chose to create this in React, and was mainly practice for the utilization of Components and Hooks as well as general practice for HTML and CSS.
+I chose to create this in React, and was mainly practice for the utilization of Components, States and Hooks as well as general practice for HTML and CSS.
 This project is essentially complete, the only issue is that its not fully responsive. Theres 2 breakpoints for mobile and tablet resolutions, and things start to break and get wrapped inbetween those breakpoints. It also doesn't scale well with resolutions bigger than 1920x1080. Using Flex and Grid would've alleviated this issue(see notes for other things I learned while working on this project). I'm going to leave this project where it is now, issues and all, so that in the future I'll be able to see my progression as a developer.
 
 ### Notes
